@@ -1,0 +1,17 @@
+/* styles.css */
+
+.styled-container {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: justify;
+}
+
+h1 {
+    color: rgb(65, 65, 65);
+}
+
+p {
+    width: 90%;
+    margin: 0 auto;
+    color: rgb(20, 20, 20);
+}
